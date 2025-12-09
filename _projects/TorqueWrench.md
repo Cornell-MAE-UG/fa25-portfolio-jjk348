@@ -55,7 +55,7 @@ Meshing:
 
 
 Loading Conditions:
-![Torque Wrench Isoview]({{ "assets\images\Torque Wrench\Loading.png" | relative_url }})
+<img src="{{ 'assets/images/Torque Wrench/Loading.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
 
 ---
 
@@ -63,14 +63,15 @@ Loading Conditions:
 
 Strain direction:  Along X Axis
 
-![Torque Wrench Isoview]({{ "assets\images\Torque Wrench\StrainCont.png" | relative_url }})
+<img src="{{ 'assets/images/Torque Wrench/StrainCont.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
 
 ---
 
 ### **5. Contour plot of maximum principal stress from FEM**
-![Torque Wrench Isoview]({{ "assets\images\Torque Wrench\StressCont.png" | relative_url }})
 
-![Torque Wrench Isoview]({{ "assets\images\Torque Wrench\StressConc.png" | relative_url }})
+<img src="{{ 'assets/images/Torque Wrench/StressCont.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
+
+<img src="{{ 'assets/images/Torque Wrench/StressConc.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
 
 
 ---
@@ -80,14 +81,17 @@ Strain direction:  Along X Axis
 - load point deflection: 0.91572"
 - strains at the strain gauge locations (half bridge): +0.0018103 ε,-0.0018103 ε
 
-![Torque Wrench Isoview]({{ "assets\images\Torque Wrench\NormalStress.png" | relative_url }})
+<img src="{{ 'assets/images/Torque Wrench/NormalStress.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
 
-![Torque Wrench Isoview]({{ "assets\images\Torque Wrench\NormalStressConc.png" | relative_url }})
+<img src="{{ 'assets/images/Torque Wrench/NormalStressConc.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
 
-![Torque Wrench Isoview]({{ "assets\images\Torque Wrench\Deform.png" | relative_url }})
+<img src="{{ 'assets/images/Torque Wrench/Deform.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
 
-![Torque Wrench Isoview]({{ "assets\images\Torque Wrench\StrainProbe.png" | relative_url }})
-![Torque Wrench Isoview]({{ "assets\images\Torque Wrench\StrainProbeValue.png" | relative_url }})
+<img src="{{ 'assets/images/Torque Wrench/StrainProbe.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
+
+<img src="{{ 'assets/images/Torque Wrench/StrainProbeValue.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
+
+
 
 ---
 

@@ -12,7 +12,6 @@ technologies: [ANSYS Static Strctural, Autodesk Fusion, MATLAB]
 
 ### **1. Images of CAD Model.**
 
-
 <img src="{{ 'assets/images/Torque Wrench/Isoview Wrench.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
 
 <img src="{{ 'assets/images/Torque Wrench/Wrench1.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />

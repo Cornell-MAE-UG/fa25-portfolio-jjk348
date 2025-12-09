@@ -13,11 +13,11 @@ technologies: [ANSYS Static Strctural, Autodesk Fusion, MATLAB]
 ### **1. Images of CAD Model.**
 
 
-![Torque Wrench Isoview]({{ "assets\images\Torque Wrench\Isoview Wrench.png" | relative_url }})
+<img src="{{ 'assets\images\Torque Wrench\Isoview Wrench.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
 
-![Torque Wrench Isoview]({{ "assets\images\Torque Wrench\Wrench1.png" | relative_url }})
+<img src="{{ 'assets\images\Torque Wrench\Isoview Wrench1.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
 
-![Torque Wrench Isoview]({{ "assets\images\Torque Wrench\Wrench2.png" | relative_url }})
+<img src="{{ 'assets\images\Torque Wrench\Isoview Wrench2.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
 
 
 ---

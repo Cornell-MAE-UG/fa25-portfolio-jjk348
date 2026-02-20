@@ -18,7 +18,7 @@ Spotted lanternflies (SLF), are an invasive pest damaging grape farms along the 
 Our solutions aim to prevent SLF from reaching grapevines, preventing vineyard deterioration and the inconveniences associated with harvest contamination.  
 **Concept Solutions:**  
 Concept A (Primary): A Totally Inconspicuous Bag  
-What it is: A mesh bag that will be attached to the tree with a funnel opening at the bottom with a sugary solution, pheromones, light sources, and vibrations inside to help attract and trap spotted lanternflies \[Figure 1\].  
+What it is: A mesh bag that will be attached to the tree with a funnel opening at the bottom with a sugary solution, pheromones, light sources, and vibrations inside to help attract and trap spotted lanternflies \[Figure 1 in appendix\].  
 How it would be used: (1) The bag can be adhered on trees or other tall objects surrounding a vineyard. (2) Trapped SLF will emit pheromones that attract more SLF. (3) Trap must be emptied every 2-3 days to prevent bad odors which may deter SLF.  
 Why it’s better than the status quo: (1) This trap takes advantage of typical SLF behaviors that include: Attraction to tall structures, pheromones, sugary compounds, vibrations, and light. (2) The product is inexpensive to manufacture and easy to install and clean.  
 End-of-semester proof-of-concept:  

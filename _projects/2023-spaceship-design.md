@@ -55,5 +55,5 @@ Cooperband, M. F., & Murman, K. M. (2025, September 4). *Improving traps for spo
 Baker, T. C., Myrick, A. J., Wolfin, M. S., & Wang, Y. (n.d.). *Visual responses of flight-dispersing spotted lanternflies, lycorma delicatula toward a tall vertical silhouette in a vineyard*. Penn State. [https://pure.psu.edu/en/publications/visual-responses-of-flight-dispersing-spotted-lanternflies-lycorm](https://pure.psu.edu/en/publications/visual-responses-of-flight-dispersing-spotted-lanternflies-lycorm) 
 
 **Figures**  
-<img src="{{ 'assets/images/MAE2250FinalClientPitch/Sketch.png' | relative_url }}" alt="Mesh" style="width: 160%; display: block; margin: 0 auto;" />
+<img src="{{ 'assets/images/MAE2250FinalClientPitch/Sketch.png' | relative_url }}" alt="Mesh" style="width: 100%; display: block; margin: 0 auto;" />
 Figure 1: Mesh bag attracts lanternflies inside and traps them.

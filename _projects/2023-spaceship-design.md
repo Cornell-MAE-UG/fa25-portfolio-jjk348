@@ -3,13 +3,13 @@ layout: project
 title: Final Client Pitch
 description: Just a spaceship that I designed
 technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/MAE2250FinalClientPitch/SLF.jpg
 ---
 
 # **A Totally Inconspicuous Bag**
 
 **Team:** *Friday AM MAE 2250 ODP Final Project Team Table One (FAMMAE2250ODPFPTT1)*  
-**Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
+**Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
 
 ---
 
@@ -49,7 +49,7 @@ Virginia Cooperative Extension. (2025, August 21). *Spotted lanternfly* (ENTO-18
 
 Cornell University College of Agriculture and Life Sciences. (n.d.). *Spotted lanternfly biology and lifecycle*. Cornell University. Retrieved February 20, 2026, from [https://cals.cornell.edu/integrated-pest-management/outreach-education/whats-bugging-you/spotted-lanternfly/spotted-lanternfly-biology-and-lifecycle](https://cals.cornell.edu/integrated-pest-management/outreach-education/whats-bugging-you/spotted-lanternfly/spotted-lanternfly-biology-and-lifecycle)
 
-Evidence of receptivity to vibroacoustic stimuli in the spotted lanternfly Lycorma Delicatula (Hemiptera: Fulgoridae) | Journal of Economic Entomology | Oxford academic. (n.d.). [https://academic.oup.com/jee/article/115/6/2116/6777183](https://academic.oup.com/jee/article/115/6/2116/6777183) 
+Evidence of receptivity to vibroacoustic stimuli in the spotted lanternfly *Lycorma delicatula* (Hemiptera: Fulgoridae) \| Journal of Economic Entomology \| Oxford Academic. (n.d.). https://academic.oup.com/jee/article/115/6/2116/6777183
 
 Cooperband, M. F., & Murman, K. M. (2025, September 4). *Improving traps for spotted lanternflies, Lycorma Delicatula (Hemiptera: Fulgoridae), by leveraging their own signals*. MDPI. [https://www.mdpi.com/2075-4450/16/9/930](https://www.mdpi.com/2075-4450/16/9/930) 
 

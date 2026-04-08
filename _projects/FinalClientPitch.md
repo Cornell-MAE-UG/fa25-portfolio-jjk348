@@ -81,9 +81,8 @@ arrows to indicate both assembly steps and mechanism functionality.
 
 1. [Bluetooth Speaker](https://www.amazon.com/Portable-Bluetooth-Waterproof-Dustproof-Compatible/dp/B0G2RKPV9N/ref=sr_1_4?crid=3BURJOIT212Z0&dib=eyJ2IjoiMSJ9.8u_C-01paj-Iu0-swDEnUkrlugUNyhYUGKznl7UmR7Rp0yePgKpWUr_NoKBKuQdDFEswlhupnbn1ajfLIbL6VQH1bexrDad8tBHW40ZElCfgtgQRs6wU_IjuRb5K_nPzNZ-z_ZUnxdG6jN8H4sMT7qbGJBbnKpvGzPaNEuj9RQE4I6lYSZJxM0kx8GMEsUqYR_Ym-QIYWTB_5VmX-jZCfsZmasFlAxQD2ugCb4Ozx_M.Z0igJmsUM9j9X5g3ZpFlKvaz0ZC6BB2P2EbzPq-VcDU&dib_tag=se&keywords=blue%2Btooth%2Bspeaker&qid=1774017752&refinements=p_36%3A-1200&rnid=386442011&sprefix=blue%2Btoothe%2Bspeaker%2Caps%2C109&sr=8-4&th=1):
 
-   1. # 
-
-      # ![][image1]
+   1. <img src="{{ 'assets/images/MAE2250FinalClientPitch/SpeakerSpecs.png' | relative_url }}" alt="Mesh" style="width: 100%; display: block; margin: 0 auto;" />
+Figure 1: Mesh bag attracts lanternflies inside and traps them.
 
 2. [Zip Ties](https://www.amazon.com/Tensile-Strength-indoor-outdoor-Skalon/dp/B09PJ8L58G/ref=sr_1_4?crid=Z107QIHVH543&dib=eyJ2IjoiMSJ9.yZ0eRA1tzbb2B37cITr4PLcStxxj1qdg5A10dy_E0eyWaHMxkt6vVxihy7FhTbREmZuYKtT1nQFgXYPAVaWTQQgJUFH5RLTSxeOeDcuf-dwR3ZCKiJy6tRgoYRils6_6h2_p7UPU1LdLZsl2Wacb8ILxu_GmAfhYiNthevfEqHVv9gWYQJO1_mkx1WmQREtiWc_eExT-ibrewRUj9i24qz5DP7HBHekRN8Ey_y5sMBI.9s2wvAJizwsTmXEhmtjOceZT3Hxb9sr4vOcomrA-_-A&dib_tag=se&keywords=ziptie&qid=1774019664&sprefix=ziptie%2Caps%2C125&sr=8-4)   
    1.   

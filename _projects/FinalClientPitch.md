@@ -114,39 +114,39 @@ Our product is indeed to hang against a tree trunk using a strap-and-hook attach
 **Design Test:**   
 
 1. Attachment Security/Anti-Slip Test
-Part Tested: Hook and Tree attachment system  
-What is being tested? Whether the device remains in position on the tree with minimal to zero sliding and rotating.   
-How the test was performed: 
+   Part Tested: Hook and Tree attachment system  
+   What is being tested? Whether the device remains in position on the tree with minimal to zero sliding and rotating.   
+   How the test was performed:
 
-* Attach our prototype to a street pole outside  
-* Add loads in increments to simulate the accumulation of SLF’s  
-* Record Vertical slip distance over the course of 1 min and 10 mins  
-* Repeat the trial 3 times
+   * Attach our prototype to a street pole outside  
+   * Add loads in increments to simulate the accumulation of SLF's  
+   * Record Vertical slip distance over the course of 1 min and 10 mins  
+   * Repeat the trial 3 times
 
-Do loads of around 0.5lbs,1lbs, 1.5lbs and 2lbs  
-Slip distance allowed: Example: Less than 0.5 inches in 10 mins  
-Also helps us determine whether our prototype will sag. This helps identify our max load.
+   Do loads of around 0.5lbs, 1lbs, 1.5lbs and 2lbs  
+   Slip distance allowed: Less than 0.5 inches in 10 mins  
+   Also helps us determine whether our prototype will sag.
 
 2. Rain/Drainage Test
 
-Part Tested: Bag \+ Speaker System  
-What is being tested? Whether water accumulates in the bag and interferes with the function of the speaker.  
-Values to consider:
+   Part Tested: Bag + Speaker System  
+   What is being tested? Whether water accumulates in the bag and interferes with the function of the speaker.  
+   Values to consider:
 
-* mL of water sprayed/used  
-* mL of water retained after 12 hours  
-* Time taken for drainage  
-* Any blockage or functionality issues observed
+   * mL of water sprayed/used  
+   * mL of water retained after 12 hours  
+   * Time taken for drainage  
+   * Any blockage or functionality issues observed
 
 3. Speaker Test
 
-Part Tested: Speaker, Speaker module  
-Testing whether the speaker is secure in the 3d printed module and properly omits a 60Hz signal for attracting lanternflies.  
-Values to consider:
+   Part Tested: Speaker, Speaker module  
+   Testing whether the speaker is secure in the 3d printed module and properly omits a 60Hz signal for attracting lanternflies.  
+   Values to consider:
 
-* At what rotations the speaker falls out.  
-* Measured frequency of speaker  
-* DBs of speaker
+   * At what rotations the speaker falls out.  
+   * Measured frequency of speaker  
+   * DBs of speaker
 
 **Success Criteria:**   
 briefly (1-2 sentences) give the context of your project, then itemize your  
@@ -156,13 +156,13 @@ Incorporated.
 
 This product aims to attract and trap a high volume of spotted lantern flies through the use of certain sound frequencies and scented oils. The design of this product is a bag that is meant to be hung outdoors where it can be most effective at attracting lantern flies. Thus the criteria of testing should be making sure the speaker producing the sound works (at the required frequency) and that the prototype can withstand the elements. 
 
-**Criteria 1:**  
+Criteria 1:  
 The bluetooth speaker is accurately able to relay sound within a frequency range of 50-70 Hz.
 
-**Criteria 2:**  
+Criteria 2:
 The backbone and bag should be able to withstand a minimum load of 1.5\*(Factor of safety of 3\) \= 4.5 lbs and undergo any static failure.
 
-**Criteria 3:**  
+Criteria 3:  
 Water will be poured on the prototype in a way rain would hit it (from above) for 60 seconds and no water should be found on the speaker or in the bag. 
 
 **Prototype test notes:**  

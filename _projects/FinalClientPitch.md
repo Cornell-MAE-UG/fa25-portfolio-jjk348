@@ -6,7 +6,7 @@ image: /assets/images/MAE2250FinalClientPitch/SLF.jpg
 ---
 
 # **A Totally Inconspicuous Bag**
-## Client Pitch {#client-pitch}
+
 
 **Team:** *Friday AM MAE 2250 ODP Final Project Team Table One (FAMMAE2250ODPFPTT1)*  
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
@@ -18,8 +18,7 @@ image: /assets/images/MAE2250FinalClientPitch/SLF.jpg
 
 ---
 
-
-
+## Client Pitch {#client-pitch}
 **Problem Statement:**  
 Spotted lanternflies (SLF), are an invasive pest damaging grape farms along the U.S. East Coast. Their instars and adults feed on grapevine sap, while honeydew from late-stage SLF causes sooty mold making crops unmarketable. Even one to two SLF in a 22-ton harvest can cause rejection, and untreated vines may host about 22.9 SLF each. Mechanical separation of SLF from harvests is ineffective due to their small size (\~1 inch) and does not prevent crop damage. Insecticides are costly, ranging from $53.63 to $147.85 per acre every 3 to 5 days, and often fail to fully control infestations.  
 **Impact:**  

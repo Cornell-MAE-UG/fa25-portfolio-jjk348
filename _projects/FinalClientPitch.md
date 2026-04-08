@@ -5,7 +5,15 @@ description: Final Client Pitch for MAE 2250 SLF
 image: /assets/images/MAE2250FinalClientPitch/SLF.jpg
 ---
 
-# **A TTTotally Inconspicuous Bag**
+# **A Totally Inconspicuous Bag**
+
+## Quick Navigation
+- [Client Pitch](#client-pitch)
+- [Functional Prototype](#functional-prototype)
+
+---
+
+## Client Pitch {#client-pitch}
 
 **Team:** *Friday AM MAE 2250 ODP Final Project Team Table One (FAMMAE2250ODPFPTT1)*  
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
@@ -57,3 +65,16 @@ Baker, T. C., Myrick, A. J., Wolfin, M. S., & Wang, Y. (n.d.). *Visual responses
 **Figures**  
 <img src="{{ 'assets/images/MAE2250FinalClientPitch/Sketch.png' | relative_url }}" alt="Mesh" style="width: 100%; display: block; margin: 0 auto;" />
 Figure 1: Mesh bag attracts lanternflies inside and traps them.
+
+---
+
+## Functional Prototype {#functional-prototype}
+
+### Purpose
+[Placeholder: Describe the purpose of the functional prototype. What specific aspects of the concept are you validating?]
+
+### Testing & Methodology
+[Placeholder: Describe what was tested, the testing methodology, experimental setup, and any relevant procedures or standards followed.]
+
+### Outcomes & Results
+[Placeholder: Present the results of testing, key findings, and what these outcomes tell us about the viability of the solution. Include any relevant data, metrics, or observations.]

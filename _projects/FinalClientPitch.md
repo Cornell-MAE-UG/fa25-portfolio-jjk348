@@ -5,7 +5,7 @@ description: Final Client Pitch for MAE 2250 SLF
 image: /assets/images/MAE2250FinalClientPitch/SLF.jpg
 ---
 
-# **A TTotally Inconspicuous Bag**
+# **A TTTotally Inconspicuous Bag**
 
 **Team:** *Friday AM MAE 2250 ODP Final Project Team Table One (FAMMAE2250ODPFPTT1)*  
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape

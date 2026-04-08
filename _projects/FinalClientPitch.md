@@ -2,6 +2,7 @@
 layout: project
 title: Final Client Pitch
 description: Final Client Pitch for MAE 2250 SLF
+technologies: [ANSYS Static Strctural, Autodesk Fusion, MATLAB]
 image: /assets/images/MAE2250FinalClientPitch/SLF.jpg
 ---
 

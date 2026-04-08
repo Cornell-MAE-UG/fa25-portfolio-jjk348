@@ -85,14 +85,11 @@ arrows to indicate both assembly steps and mechanism functionality.
 
 
 2. [Zip Ties](https://www.amazon.com/Tensile-Strength-indoor-outdoor-Skalon/dp/B09PJ8L58G/ref=sr_1_4?crid=Z107QIHVH543&dib=eyJ2IjoiMSJ9.yZ0eRA1tzbb2B37cITr4PLcStxxj1qdg5A10dy_E0eyWaHMxkt6vVxihy7FhTbREmZuYKtT1nQFgXYPAVaWTQQgJUFH5RLTSxeOeDcuf-dwR3ZCKiJy6tRgoYRils6_6h2_p7UPU1LdLZsl2Wacb8ILxu_GmAfhYiNthevfEqHVv9gWYQJO1_mkx1WmQREtiWc_eExT-ibrewRUj9i24qz5DP7HBHekRN8Ey_y5sMBI.9s2wvAJizwsTmXEhmtjOceZT3Hxb9sr4vOcomrA-_-A&dib_tag=se&keywords=ziptie&qid=1774019664&sprefix=ziptie%2Caps%2C125&sr=8-4)   
-   1.   
-      1. <img src="{{ 'assets/images/MAE2250FinalClientPitch/ziptie.png' | relative_url }}" alt="Mesh" style="width: 100%; display: block; margin: 0 auto;" />
+   1.    <img src="{{ 'assets/images/MAE2250FinalClientPitch/ziptie.png' | relative_url }}" alt="Mesh" style="width: 100%; display: block; margin: 0 auto;" />
 
 3. [Duct Tape](https://www.amazon.com/Amazon-Basics-Heavy-Duty-General-Purpose-activities/dp/B07YDSC22B/ref=sr_1_1_ffob_sspa?crid=21L7WBS9U0PPU&dib=eyJ2IjoiMSJ9.ku-h4CSzUaE6BCo6TW3stbw-XEFk_vcvhETyrTH17v9v9fzipWq3RXr5WClawHkd96Tmol2C3mNq2eNcYOMogZLpdCU3Lgp13fxIuiHAc2pgZ2gMrEx_jcePqL02HCLJmpaixyrkXzQlKn1B2jPHkpQWV10Jn3jDLOVSBnICwj0mpgXtG1ZqYsZch_piqYN-KDa_rX2JoSKcBN4eEaqVcT-AAh2jlDSGAD_x-qKOoa8.HkgQJgOu0fpie5W87B5TdAdgD-IpaJh1BiqWWhyMx_A&dib_tag=se&keywords=duck%2Btape&qid=1774019798&sprefix=duck%2Btap%2Caps%2C144&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1): 
 
-   1. # 3 pack
-
-      # ![][image3]
+   1. <img src="{{ 'assets/images/MAE2250FinalClientPitch/ducttape.png' | relative_url }}" alt="Mesh" style="width: 100%; display: block; margin: 0 auto;" />
 
 4. [Methyl Salicylate](https://www.amazon.com/Methyl-Salicylate-120ml-Purity-Wintergreen/dp/B07DLZTRFB/ref=sr_1_4?crid=XKWW7K4E7QOA&dib=eyJ2IjoiMSJ9.NmQISCTCWBhe84j2zGRARPR4ouvWewg-8WX8yfYdh5cWE2ndNkR2P-URrkkLQZMrCTbYjuiACE8t9RxGQG2sXtwASpi_Lx_2tSns7RVjG5Uk0Y84Co4nv6a5FiCEPJZjerGP34QRo_ac9F7NX-_MtAUV_bTZxVHBMkcuC4XoaP_3reemDLSEPg0p6frB6UkMgYYRRxR_2408-2TBDVsKmxeVig6BXJXzmIIDIksnnWY.Au6jCvjA0Qe3HpkbtOOIkQxLS-QpzNLyXygwgDELbpc&dib_tag=se&keywords=Methyl+Salicylate&qid=1774020104&sprefix=methyl+salicylate%2Caps%2C137&sr=8-4):  
    1.   

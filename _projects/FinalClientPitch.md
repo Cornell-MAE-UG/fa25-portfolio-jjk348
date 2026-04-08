@@ -70,6 +70,11 @@ Figure 1: Mesh bag attracts lanternflies inside and traps them.
 
 ## Functional Prototype {#functional-prototype}
 
+**Prototype Mockup:**  
+   <img src="{{ 'assets/images/MAE2250FinalClientPitch/mockup.png' | relative_url }}" alt="Mesh" style="width: 100%; display: block; margin: 0 auto;" />
+   <img src="{{ 'assets/images/MAE2250FinalClientPitch/cad.png' | relative_url }}" alt="Mesh" style="width: 100%; display: block; margin: 0 auto;" />
+
+
 **Design Documentation:**  
 
 1. [Bluetooth Speaker](https://www.amazon.com/Portable-Bluetooth-Waterproof-Dustproof-Compatible/dp/B0G2RKPV9N/ref=sr_1_4?crid=3BURJOIT212Z0&dib=eyJ2IjoiMSJ9.8u_C-01paj-Iu0-swDEnUkrlugUNyhYUGKznl7UmR7Rp0yePgKpWUr_NoKBKuQdDFEswlhupnbn1ajfLIbL6VQH1bexrDad8tBHW40ZElCfgtgQRs6wU_IjuRb5K_nPzNZ-z_ZUnxdG6jN8H4sMT7qbGJBbnKpvGzPaNEuj9RQE4I6lYSZJxM0kx8GMEsUqYR_Ym-QIYWTB_5VmX-jZCfsZmasFlAxQD2ugCb4Ozx_M.Z0igJmsUM9j9X5g3ZpFlKvaz0ZC6BB2P2EbzPq-VcDU&dib_tag=se&keywords=blue%2Btooth%2Bspeaker&qid=1774017752&refinements=p_36%3A-1200&rnid=386442011&sprefix=blue%2Btoothe%2Bspeaker%2Caps%2C109&sr=8-4&th=1):

@@ -92,8 +92,7 @@ arrows to indicate both assembly steps and mechanism functionality.
    1. <img src="{{ 'assets/images/MAE2250FinalClientPitch/ducttape.png' | relative_url }}" alt="Mesh" style="width: 100%; display: block; margin: 0 auto;" />
 
 4. [Methyl Salicylate](https://www.amazon.com/Methyl-Salicylate-120ml-Purity-Wintergreen/dp/B07DLZTRFB/ref=sr_1_4?crid=XKWW7K4E7QOA&dib=eyJ2IjoiMSJ9.NmQISCTCWBhe84j2zGRARPR4ouvWewg-8WX8yfYdh5cWE2ndNkR2P-URrkkLQZMrCTbYjuiACE8t9RxGQG2sXtwASpi_Lx_2tSns7RVjG5Uk0Y84Co4nv6a5FiCEPJZjerGP34QRo_ac9F7NX-_MtAUV_bTZxVHBMkcuC4XoaP_3reemDLSEPg0p6frB6UkMgYYRRxR_2408-2TBDVsKmxeVig6BXJXzmIIDIksnnWY.Au6jCvjA0Qe3HpkbtOOIkQxLS-QpzNLyXygwgDELbpc&dib_tag=se&keywords=Methyl+Salicylate&qid=1774020104&sprefix=methyl+salicylate%2Caps%2C137&sr=8-4):  
-   1.   
-      ![][image4]  
+   1. <img src="{{ 'assets/images/MAE2250FinalClientPitch/methyl.png' | relative_url }}" alt="Mesh" style="width: 100%; display: block; margin: 0 auto;" />
 5. UV-Resistant Sure-Grip Rope   
    1. McMaster Code: **3818T23**  
    2. To attach our trap to trees  
@@ -120,13 +119,8 @@ Our product is indeed to hang against a tree trunk using a strap-and-hook attach
 7. Hang the product and ensure the bag hangs freely and the funnel remains aligned
 
 **Design Test:**   
-for each test, indicate which part it is testing, what it is testing for, how you  
-perform the test, the test results, and what your conclusion is for the next iteration.  
-3  
-Design Tests:
 
 1. Attachment Security/Anti-Slip Test
-
 Part Tested: Hook and Tree attachment system  
 What is being tested? Whether the device remains in position on the tree with minimal to zero sliding and rotating.   
 How the test was performed: 

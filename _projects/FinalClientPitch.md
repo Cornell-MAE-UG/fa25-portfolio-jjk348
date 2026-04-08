@@ -69,11 +69,146 @@ Figure 1: Mesh bag attracts lanternflies inside and traps them.
 
 ## Functional Prototype {#functional-prototype}
 
-### Purpose
-[Placeholder: Describe the purpose of the functional prototype. What specific aspects of the concept are you validating?]
+**Design Documentation:**  
+– All parts are listed, along with their specs, McMaster code (if relevant), and fabrication details  
+(if relevant)  
+– Clear illustration of the design intent of the prototype, especially the functional and mov-  
+ing parts. This can be sketches, CAD blow-up, or other; consider what you are trying to  
+communicate. Annotate the illustrations appropriately for components and function/motion.  
+– Clear instructions of how to assemble the prototype. Think back to your reverse-engineering  
+activity. Label components and details relevant to the assembly, and use (visually different)  
+arrows to indicate both assembly steps and mechanism functionality.
 
-### Testing & Methodology
-[Placeholder: Describe what was tested, the testing methodology, experimental setup, and any relevant procedures or standards followed.]
+1. [Bluetooth Speaker](https://www.amazon.com/Portable-Bluetooth-Waterproof-Dustproof-Compatible/dp/B0G2RKPV9N/ref=sr_1_4?crid=3BURJOIT212Z0&dib=eyJ2IjoiMSJ9.8u_C-01paj-Iu0-swDEnUkrlugUNyhYUGKznl7UmR7Rp0yePgKpWUr_NoKBKuQdDFEswlhupnbn1ajfLIbL6VQH1bexrDad8tBHW40ZElCfgtgQRs6wU_IjuRb5K_nPzNZ-z_ZUnxdG6jN8H4sMT7qbGJBbnKpvGzPaNEuj9RQE4I6lYSZJxM0kx8GMEsUqYR_Ym-QIYWTB_5VmX-jZCfsZmasFlAxQD2ugCb4Ozx_M.Z0igJmsUM9j9X5g3ZpFlKvaz0ZC6BB2P2EbzPq-VcDU&dib_tag=se&keywords=blue%2Btooth%2Bspeaker&qid=1774017752&refinements=p_36%3A-1200&rnid=386442011&sprefix=blue%2Btoothe%2Bspeaker%2Caps%2C109&sr=8-4&th=1):
 
-### Outcomes & Results
-[Placeholder: Present the results of testing, key findings, and what these outcomes tell us about the viability of the solution. Include any relevant data, metrics, or observations.]
+   1. # 
+
+      # ![][image1]
+
+2. [Zip Ties](https://www.amazon.com/Tensile-Strength-indoor-outdoor-Skalon/dp/B09PJ8L58G/ref=sr_1_4?crid=Z107QIHVH543&dib=eyJ2IjoiMSJ9.yZ0eRA1tzbb2B37cITr4PLcStxxj1qdg5A10dy_E0eyWaHMxkt6vVxihy7FhTbREmZuYKtT1nQFgXYPAVaWTQQgJUFH5RLTSxeOeDcuf-dwR3ZCKiJy6tRgoYRils6_6h2_p7UPU1LdLZsl2Wacb8ILxu_GmAfhYiNthevfEqHVv9gWYQJO1_mkx1WmQREtiWc_eExT-ibrewRUj9i24qz5DP7HBHekRN8Ey_y5sMBI.9s2wvAJizwsTmXEhmtjOceZT3Hxb9sr4vOcomrA-_-A&dib_tag=se&keywords=ziptie&qid=1774019664&sprefix=ziptie%2Caps%2C125&sr=8-4)   
+   1.   
+      ![][image2]  
+3. [Duct Tape](https://www.amazon.com/Amazon-Basics-Heavy-Duty-General-Purpose-activities/dp/B07YDSC22B/ref=sr_1_1_ffob_sspa?crid=21L7WBS9U0PPU&dib=eyJ2IjoiMSJ9.ku-h4CSzUaE6BCo6TW3stbw-XEFk_vcvhETyrTH17v9v9fzipWq3RXr5WClawHkd96Tmol2C3mNq2eNcYOMogZLpdCU3Lgp13fxIuiHAc2pgZ2gMrEx_jcePqL02HCLJmpaixyrkXzQlKn1B2jPHkpQWV10Jn3jDLOVSBnICwj0mpgXtG1ZqYsZch_piqYN-KDa_rX2JoSKcBN4eEaqVcT-AAh2jlDSGAD_x-qKOoa8.HkgQJgOu0fpie5W87B5TdAdgD-IpaJh1BiqWWhyMx_A&dib_tag=se&keywords=duck%2Btape&qid=1774019798&sprefix=duck%2Btap%2Caps%2C144&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1): 
+
+   1. # 3 pack
+
+      # ![][image3]
+
+4. [Methyl Salicylate](https://www.amazon.com/Methyl-Salicylate-120ml-Purity-Wintergreen/dp/B07DLZTRFB/ref=sr_1_4?crid=XKWW7K4E7QOA&dib=eyJ2IjoiMSJ9.NmQISCTCWBhe84j2zGRARPR4ouvWewg-8WX8yfYdh5cWE2ndNkR2P-URrkkLQZMrCTbYjuiACE8t9RxGQG2sXtwASpi_Lx_2tSns7RVjG5Uk0Y84Co4nv6a5FiCEPJZjerGP34QRo_ac9F7NX-_MtAUV_bTZxVHBMkcuC4XoaP_3reemDLSEPg0p6frB6UkMgYYRRxR_2408-2TBDVsKmxeVig6BXJXzmIIDIksnnWY.Au6jCvjA0Qe3HpkbtOOIkQxLS-QpzNLyXygwgDELbpc&dib_tag=se&keywords=Methyl+Salicylate&qid=1774020104&sprefix=methyl+salicylate%2Caps%2C137&sr=8-4):  
+   1.   
+      ![][image4]  
+5. UV-Resistant Sure-Grip Rope   
+   1. McMaster Code: **3818T23**  
+   2. To attach our trap to trees  
+6. Resealable Bags   
+   1. McMaster Code: **1959T63**  
+   2. To hold SLF that we trap
+
+**Design Intent:**  
+Our product is indeed to hang against a tree trunk using a strap-and-hook attachment style. A speaker carriage at the top of our product supports our vibration source whilst a funnel directs the SLF into the collection bag. The bag provides storage volume to maximize SLF capture whilst having a narrow funnel reduces the chances of escape. A key design choice was deciding between a bag or a hard shell. Although a hard shell would have been more aesthetic and increased user friendliness, the added design complexity, cost, and inability to store compactly made us select a bag. The critical functional parts are:
+
+1. Secure hanging of our product on the tree  
+2. Bag can support increasing load of SLF  
+3. Entry of SLF through funnel; attracted by winter green oil  
+4. Efficient Removal/Replacement of the bag
+
+**Assembly Steps:**
+
+1. Fabricate the funnel, hook and speaker carriage  
+2. Place the speaker into the carriage  
+3. Attach the funnel to the connector  
+4. Modify the collection bag with openings for the funnel and hook and add attractant system (winter green oil)  
+5. Fit the bag over the funnel and speaker housing structure and secure it  
+6. Attach the final assembled product to the tree using the rope   
+7. Hang the product and ensure the bag hangs freely and the funnel remains aligned
+
+**Design Test:**   
+for each test, indicate which part it is testing, what it is testing for, how you  
+perform the test, the test results, and what your conclusion is for the next iteration.  
+3  
+Design Tests:
+
+1. Attachment Security/Anti-Slip Test
+
+Part Tested: Hook and Tree attachment system  
+What is being tested? Whether the device remains in position on the tree with minimal to zero sliding and rotating.   
+How the test was performed: 
+
+* Attach our prototype to a street pole outside  
+* Add loads in increments to simulate the accumulation of SLF’s  
+* Record Vertical slip distance over the course of 1 min and 10 mins  
+* Repeat the trial 3 times
+
+Do loads of around 0.5lbs,1lbs, 1.5lbs and 2lbs  
+Slip distance allowed: Example: Less than 0.5 inches in 10 mins  
+Also helps us determine whether our prototype will sag. This helps identify our max load.
+
+2. Rain/Drainage Test
+
+Part Tested: Bag \+ Speaker System  
+What is being tested? Whether water accumulates in the bag and interferes with the function of the speaker.  
+Values to consider:
+
+* mL of water sprayed/used  
+* mL of water retained after 12 hours  
+* Time taken for drainage  
+* Any blockage or functionality issues observed
+
+3. Speaker Test
+
+Part Tested: Speaker, Speaker module  
+Testing whether the speaker is secure in the 3d printed module and properly omits a 60Hz signal for attracting lanternflies.  
+Values to consider:
+
+* At what rotations the speaker falls out.  
+* Measured frequency of speaker  
+* DBs of speaker
+
+**Success Criteria:**   
+briefly (1-2 sentences) give the context of your project, then itemize your  
+criteria, what it is assessing, and how you will measure it. Identify at least one criterion that  
+is relevant to an exhibit-day demonstration of your prototype, and describe how it will be  
+Incorporated.
+
+This product aims to attract and trap a high volume of spotted lantern flies through the use of certain sound frequencies and scented oils. The design of this product is a bag that is meant to be hung outdoors where it can be most effective at attracting lantern flies. Thus the criteria of testing should be making sure the speaker producing the sound works (at the required frequency) and that the prototype can withstand the elements. 
+
+**Criteria 1:**  
+The bluetooth speaker is accurately able to relay sound within a frequency range of 50-70 Hz.
+
+**Criteria 2:**  
+The backbone and bag should be able to withstand a minimum load of 1.5\*(Factor of safety of 3\) \= 4.5 lbs and undergo any static failure.
+
+**Criteria 3:**  
+Water will be poured on the prototype in a way rain would hit it (from above) for 60 seconds and no water should be found on the speaker or in the bag. 
+
+**Prototype test notes:**  
+Criteria 1:  
+	Fail: our speaker was able to produce a frequency of approximately 80 hertz  
+![][image5]
+
+Criteria 2:  
+	Fail: Our speaker carriage fractured under the load at the narrow connection point. It failed under a load of 1 additional pound of weight.![][image6]
+
+Criteria 3:  
+ 	Success: The speaker carriage rain shield prevented water from entering the bag or speaker for 60 seconds   
+![][image7]  
+	
+
+**Conclusion/ Design Changes for next prototype:**
+
+Assembly of our prototype from the base components was difficult. It took too long and the process must be streamlined and some components of our product must be altered for better integration. We tested the frequency of the speaker and determined it wasn’t the correct frequency.
+
+For the speaker carriage:  
+	There is a small pole currency holding up the hood of the speaker carriage to prevent water drainage into the speaker. After manufacturing and testing however, we have determined that this is not a mechanism that aids in preventing water drippage however it adds significant manufacturing complexity. Furthermore, the flat backplate is too long to feasibly manufacture in one part so we will be breaking it down into a flat plate with a few holes. The speaker carriage and funnel will then be modified to include hooks to latch onto the holes. 
+
+For flat support beam connecting funnel and speaker carriage:  
+	For this prototype we used cardboard but for our next prototype we will use plastic to prevent water deterioration.
+
+For the bag:  
+	The bag is difficult to attach to the backbone in our prototype. For the future, we can either design or purchase clips to attach to our backbone to make it easier to clip on the bag to our design.
+
+For the funnel:  
+	Include a flat or recessed ridge for the zip tie to tighten onto. The funnel shape can be altered to see if it would be better at amplifying the speaker noise. 
+
+For the speaker:  
+	The bluetooth speaker used in the test was observed to only reach a lowest frequency of 80 Hz which is about 20 Hz above our target frequency. We have supplies for our own speaker now and will be testing that. The bluetooth speaker used in our first prototype is also dependent on external devices to produce sound as well as uses a lot of power (part of the power is used for bluetooth capabilities). Using different speaker components as well as electrical circuits+components, we should be able to design a speaker system that produces our desired frequency of 60 Hz independently and is more power efficient. 

@@ -201,3 +201,19 @@ For the funnel:
 
 For the speaker:  
 	The bluetooth speaker used in the test was observed to only reach a lowest frequency of 80 Hz which is about 20 Hz above our target frequency. We have supplies for our own speaker now and will be testing that. The bluetooth speaker used in our first prototype is also dependent on external devices to produce sound as well as uses a lot of power (part of the power is used for bluetooth capabilities). Using different speaker components as well as electrical circuits+components, we should be able to design a speaker system that produces our desired frequency of 60 Hz independently and is more power efficient. 
+
+   
+<hr>
+
+<h2>Full Report</h2>
+
+<embed src="{{ '/assets/images/MAE2250FinalClientPitch/O6_ClientReport.pdf' | relative_url }}" 
+       width="100%" 
+       height="800px" 
+       type="application/pdf">
+
+<p style="margin-top:10px;">
+  <a href="{{ '/assets/images/MAE2250FinalClientPitch/O6_ClientReport.pdf' | relative_url }}" target="_blank">
+    Download PDF
+  </a>
+</p>

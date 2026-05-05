@@ -207,7 +207,7 @@ For the speaker:
 
 ## Client Report {#client-report}
 
-<hr>
+
 <embed src="{{ '/assets/ClientReport.pdf' | relative_url }}" 
        width="100%" 
        height="800px" 

@@ -14,12 +14,16 @@ image: /assets/images/MAE2250FinalClientPitch/SLF.jpg
 
 ---
 ## Quick Navigation
+- [Overview](#overview)
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
 - [Client Report](#client-report)
 
 ---
+## Overview {#overview}
+This project develops a low-cost, behaviorally targetting trapping system to mitigate the impact of invasive spotted lanternflies on New York grape vineyards. The design leverages key SLF attractants—vibroacoustic signals and chemical lures to draw SLFs into a collection bag mounted on trees surrounding farms. By intercepting SLFs before they reach grapevines, the system aims to reduce crop damage, minimize reliance on repeated insecticide applications, and save farmers millions of dollars each year.
 
+---
 ## Client Pitch {#client-pitch}
 **Problem Statement:**  
 Spotted lanternflies (SLF), are an invasive pest damaging grape farms along the U.S. East Coast. Their instars and adults feed on grapevine sap, while honeydew from late-stage SLF causes sooty mold making crops unmarketable. Even one to two SLF in a 22-ton harvest can cause rejection, and untreated vines may host about 22.9 SLF each. Mechanical separation of SLF from harvests is ineffective due to their small size (\~1 inch) and does not prevent crop damage. Insecticides are costly, ranging from $53.63 to $147.85 per acre every 3 to 5 days, and often fail to fully control infestations.  

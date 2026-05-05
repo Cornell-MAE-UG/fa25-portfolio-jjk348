@@ -207,13 +207,13 @@ For the speaker:
 
 <h2>Full Report</h2>
 
-<embed src="{{ '/assets/images/MAE2250FinalClientPitch/O6_ClientReport.pdf' | relative_url }}" 
+<embed src="{{ '/assets/ClientReport.pdf' | relative_url }}" 
        width="100%" 
        height="800px" 
        type="application/pdf">
 
 <p style="margin-top:10px;">
-  <a href="{{ '/assets/images/MAE2250FinalClientPitch/O6_ClientReport.pdf' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/ClientReport.pdf' | relative_url }}" target="_blank">
     Download PDF
   </a>
 </p>

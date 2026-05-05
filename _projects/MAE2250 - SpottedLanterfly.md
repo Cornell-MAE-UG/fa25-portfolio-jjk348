@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Final Client Pitch
+title: Spotted Lanternfly Solution - MAE 2250
 description: Final Client Pitch for MAE 2250 SLF
 technologies: [Autodesk Fusion 360, Microsoft Excel]
 image: /assets/images/MAE2250FinalClientPitch/SLF.jpg

@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
+title: Fluid Mechanical Dissection
+description: MAE 3230 Fluid Mechanics
 technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
 ---
